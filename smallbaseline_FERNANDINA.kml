@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>smallbaseline_FERNANDINA</name>
+	<GroundOverlay>
+		<name>geo_velocity</name>
+		<Icon>
+			<href>geo_velocity.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>-0.02267929935524443</north>
+			<south>-0.7062693869166614</south>
+			<east>-90.68239871325143</east>
+			<west>-92.33709438977591</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<ScreenOverlay>
+		<name>colorbar</name>
+		<Icon>
+			<href>geo_velocity_cbar.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="250" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+</Folder>
+</kml>
