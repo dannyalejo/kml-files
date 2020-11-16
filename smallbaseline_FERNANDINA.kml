@@ -5,7 +5,7 @@
 	<GroundOverlay>
 		<name>geo_velocity</name>
 		<Icon>
-			<href>geo_velocity.png</href>
+			<href>https://github.com/dannyalejo/kml-files/blob/main/geo_velocity.png</href>
 		</Icon>
 		<LatLonBox>
 			<north>-0.02267929935524443</north>
