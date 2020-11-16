@@ -17,7 +17,7 @@
 	<ScreenOverlay>
 		<name>colorbar</name>
 		<Icon>
-			<href>geo_velocity_cbar.png</href>
+			<href>https://github.com/dannyalejo/kml-files/blob/main/geo_velocity_cbar.png</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
